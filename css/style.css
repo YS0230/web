@@ -186,7 +186,7 @@ h6 {
   transition: 0.5s;
   margin: 10px;
   border: 2px solid rgb(221, 43, 43);
-  color: #000;
+  color: rgb(255, 255, 255);
   background:  rgb(221, 43, 43,0.5);
 }
 
@@ -998,6 +998,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
   position: relative;
   padding: 0;
+  margin: 5px ;
   vertical-align: middle;
   text-align: center;
 }
